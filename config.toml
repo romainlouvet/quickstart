@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://romainlouvet.github.io"
 title   = "Hello"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -17,7 +17,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "romainlouvet.github.io"
 
 buildDrafts  = false
 buildFuture  = false
