@@ -1,5 +1,5 @@
 baseURL = "https://romainlouvet.github.io"
-title   = "Hello"
+title   = "Romain LOUVET"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Romain LOUVET"
+  homeSubtitle = "Software Engineer"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
