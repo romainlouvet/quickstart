@@ -154,7 +154,7 @@ disableHugoGeneratorInject = false
   [params.portrait]
     path     = "/profile.jpeg"
     alt      = "Portrait"
-    maxWidth = "500px"
+    maxWidth = "250px"
 
   # Social icons
   [[params.social]]
