@@ -173,6 +173,10 @@ disableHugoGeneratorInject = false
     name = "linkedin"
     url  = "https://fr.linkedin.com/in/romain-louvet-92353b20"
 
+  [[params.social]]
+    name = "strava"
+    url  = "https://www.strava.com/athletes/4124171"
+
 
 [languages]
   [languages.en]
