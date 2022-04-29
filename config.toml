@@ -2,6 +2,7 @@ baseURL = "https://romainlouvet.github.io"
 title   = "Romain LOUVET"
 languageCode = "en-us"
 theme = "hello-friend-ng"
+googleAnalytics = "G-TP6CRPCSPB"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
